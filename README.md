@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Gonçalo Canteiro</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
+<h3 align="center">A passionate fullstack developer from Portugal</h3>
 
 🔭 I’m currently working on [Split](https://github.com/xgeekshq/split)
 
